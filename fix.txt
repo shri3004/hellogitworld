@@ -1,2 +1,3 @@
 # To demonstrate pull changes
   usage of push comand
+  usage of command by shri
